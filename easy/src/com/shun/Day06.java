@@ -1,18 +1,12 @@
 package com.shun;
 
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
-import java.util.Stack;
-
 /**
  * @Description: 有效的括号(https://leetcode.cn/problems/merge-two-sorted-lists/submissions/)
  * @author: chushunshun
  * @date: 2022/6/27 10:12
  * @param:
  */
-public class day06 {
+public class Day06 {
     public static void main(String[] args) {
         ListNode list1 = new ListNode(1,new ListNode(2,new ListNode(4,null)));
         ListNode list2 = new ListNode(1,new ListNode(3,new ListNode(4,null)));

@@ -6,7 +6,7 @@ package com.shun;
  * @date: 2022/6/27 10:12
  * @param:
  */
-public class day04 {
+public class Day04 {
     public static void main(String[] args) {
         String[] strings = new String[]{"aower","elow","flight"};
         System.out.println(longestCommonPrefix(strings));

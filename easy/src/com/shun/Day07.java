@@ -1,15 +1,12 @@
 package com.shun;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @Description: 删除有序数组中的重复项(https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)
  * @author: chushunshun
  * @date: 2022/6/27 10:12
  * @param:
  */
-public class day07 {
+public class Day07 {
     public static void main(String[] args) {
         int[] nums = new int[]{1,1,2,2,2,5,4};
         System.out.println(removeDuplicates(nums));

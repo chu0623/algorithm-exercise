@@ -11,7 +11,7 @@ import java.util.Stack;
  * @date: 2022/6/27 10:12
  * @param:
  */
-public class day05 {
+public class Day05 {
     public static void main(String[] args) {
         System.out.println(isValid("{[]}"));
 

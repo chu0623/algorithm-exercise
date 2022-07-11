@@ -6,10 +6,12 @@ package com.shun;
  * @date: 2022/6/27 10:12
  * @param:
  */
-public class day08 {
+public class Day08 {
     public static void main(String[] args) {
         int[] nums = new int[]{2,1,2,2,2,2,2,5,4};
         System.out.println(removeElement(nums,2));
+
+        System.out.println("施工区1".substring(0,3));
 
     }
 
